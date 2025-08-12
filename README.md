@@ -7,7 +7,7 @@ Each color is displayed with its **RGB color code**, making it useful for design
 
 ## 📷 Screenshot
 <img width="1258" height="623" alt="image" src="https://github.com/user-attachments/assets/0deb25ae-129b-433b-b020-335a0bf6b4df" />
----
+
 
 ## ✨ Features
 - Automatically generates **new random colors** on every page load.
@@ -31,7 +31,7 @@ Each color is displayed with its **RGB color code**, making it useful for design
 
 ---
 
-👤 Author — Muhammad Subhan Naeem
-Built with ❤️ by Heera
+👤 Author — Muhammad Subhan Naeem <br>
+Built with ❤️ by Heera <br>
 🔗 https://github.com/codebyheera
 
